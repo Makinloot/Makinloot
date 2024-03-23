@@ -55,6 +55,4 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinloot&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=makinloot&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <br/>
