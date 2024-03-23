@@ -2,11 +2,6 @@
   
 
 - 👨‍💻 I’m currently working on projects remotely  
-  
-
-- 🌐 I’m currently learning web technologies ( mainly frontend )  
-  
-
 - 📬 Ask me about anything here - itorn9777@gmail.com  
 - 🎫 Portfolio https://tepitashvili.ge
   
